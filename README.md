@@ -1,0 +1,1 @@
+# Nextjs Firebase Boilerplate
